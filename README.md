@@ -6,6 +6,8 @@
 
 该脚本目前只适用于在Vultr处购买的基于KVM的Ubuntu 16.10(x64) VPS服务器，未针对32位系统以及其它任何VPS提供商的任何平台做任何测试。
 
+Vultr VPS[购买连接](http://www.vultr.com/?ref=6944657-3B)
+
 # 感谢
 
 在strongswan的配置过程中，参考过以下内容，特此感谢：
